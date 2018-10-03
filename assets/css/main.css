@@ -1,0 +1,436 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+
+header {
+    color: #333;
+    font-size: 14px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo img {
+    width: 25%;
+    height: auto;
+}
+#facebook {
+    color: #FFCBD4;
+    font-size: 25px;
+    padding: 0 5px 0 5px;
+}
+.redes a:hover {
+    opacity: 0.5;
+}
+#instagram {
+    color: #FFCBD4;
+    font-size: 25px;
+    padding: 0 5px 0 5px;
+}
+#pinterest {
+    color: #FFCBD4;
+    font-size: 25px;
+    padding: 0 5px 0 5px;
+}
+#whatsapp {
+    color: #FFCBD4;
+    font-size: 25px;
+    padding: 0 5px 0 5px;
+}
+
+#slider {
+    background-color: #F3EDEA;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+}
+#slider .col {
+    margin: 0;
+    padding: 0;
+}
+#slider img {
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+#menu {
+    color: #F294A5;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+#menu a {
+    color: #F294A5;
+    text-decoration: none;
+    padding: 0 15px 0 15px;
+}
+#menu a:hover {
+    color: #F294A5;
+    text-decoration: underline;
+    padding: 0 15px 0 15px;
+}
+
+
+
+
+
+#menuFooter {
+    font-family: 'Gochi Hand', cursive;
+    font-size: 17px;
+    text-align: left;
+}
+#menuFooter a {
+    color: #F294A5;
+    text-decoration: none;
+    padding: 0 15px 0 15px;
+}
+#menuFooter a:hover {
+    color: #F294A5;
+    text-decoration: underline;
+    padding: 0 15px 0 15px;
+}
+
+
+
+
+
+.rojo {
+    background-color: red;
+}
+.rosa {
+    color: #F294A5;
+}
+.color1 {
+    background-color: blue;
+}
+.color2 {
+    background-color: lime;
+}
+.color3 {
+    background-color: powderblue;
+}
+
+
+.oso {
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+.oso img {
+    width: 100%;
+    height: 100%; 
+}
+
+.destacado1 {
+    margin: 0;
+    height: auto;
+    padding: 0;
+}
+.destacado1 img {
+    height: auto;
+    width: 100%;
+}
+.destacado1 a:hover {
+    opacity: 0.5;
+}
+.oso a:hover {
+    opacity: 0.5;
+}
+.destacado3 a:hover {
+    opacity: 0.5;
+}
+
+.destacado3 {
+    margin: 0;
+    padding: 0;
+}
+.destacado3 img {
+    height: auto;
+    width: 100%;
+}
+
+
+.verde {
+    background-color: green;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.envio {
+    color: #F294A5;
+    text-align: center;
+    height: auto;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 25px;
+}
+.envio img {
+    height: auto;
+    width: 30%;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.envio a {
+    color: #F294A5;
+}
+.contacto a {
+    color: #F294A5;
+}
+.seguridad a {
+    color: #F294A5;
+}
+
+
+
+
+.contacto {
+    color: #F294A5;
+    text-align: center;
+    height: auto;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 25px;
+}
+.contacto img {
+    height: auto;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    width: 45%;
+}
+
+.seguridad {
+    color: #F294A5;
+    text-align: center;
+    height: auto;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 25px;
+}
+.seguridad img {
+    height: auto;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    width: 18%;
+}
+
+.titulo h2 {
+    color: #F294A5;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 35px;
+}
+
+
+.shopping {
+    color: #333;
+    font-size: 13px;
+}
+.shopping h3 {
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.shopping img {
+    height: auto;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+
+.testemonios {
+    background-color: #D4C2B8;
+    border-bottom: solid 10px #FFCBD4;
+    border-top: solid 10px #FFCBD4;
+    height: auto;
+    padding: 60px 0 40px 0;
+    width: 100%;
+}
+.testemonios p {
+    color: rgb(91, 66, 66);
+    border-radius: 10px;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 21px;
+}
+.testemonios img {
+    border-radius: 50%;
+    height: auto;
+    padding: 0 0 20px 0;
+    width: 40%;
+}
+.testemonios h2 {
+    border-radius: 10px;
+    color: grey;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 23px;
+    width: auto;
+}
+.testemonios a {
+    color: grey;
+    font-style: italic;
+}
+
+
+.babyshower {
+    background-image: url('../../assets/images/babyshower.png');
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 60px;
+    text-align: center;
+}
+
+#footer {
+    background-color: #F3EDEA;
+    height: auto;
+    font-size: 12px;
+}
+#footer a {
+    text-decoration: none;
+    color: #333;
+}
+
+#footer a:hover {
+    text-decoration: underline;
+    color: #333;
+}
+
+#tipografiaEspecial {
+    color: #333;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 17px;
+}
+
+#facebookPie {
+    color: #FFCBD4;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-right: 7px;
+}
+#instagramPie {
+    color: #FFCBD4;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-right: 7px;
+}
+#pinterestPie {
+    color: #FFCBD4;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-right: 7px;
+}
+#whatsappPie {
+    color: #FFCBD4;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+    padding-right: 7px;
+}
+.redesPie {
+    text-align: right;
+}
+.redesPie p {
+    color: #F294A5;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 17px;
+}
+
+.redesPie img {
+    height: auto;
+    margin: 20px 0 0 0;
+    width: 25%;
+}
+
+
+.shopping a {
+    color: #333;
+}
+.shopping a:hover {
+    opacity: 0.5;
+    text-decoration: none;
+}
+.shopping img {
+    border-radius: 3px;
+}
+.shopping h3 {
+    margin-bottom: 40px;
+}
+
+
+#destacado1, #destacado2, #destacado3, #destacado4, .oso {
+    padding: 2px;
+}
+
+.destaque {
+    background-color: rgba(212, 194, 185, 0.9);
+    border-radius: 5px;
+    color: #FFF;
+    height: auto;
+    padding: 30px 0 30px 20px;
+    text-align: center;
+    width: 100%;
+}
+.destaque p {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+.destaque h2 {
+    color: #FFF;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 65px;
+}
+.destaque a {
+    color: #FFF;
+    font-weight: bold;
+}
+
+
+.borde {
+    border: solid 3px pink;
+}
+
+.linkfooters {
+    font-size: 12px;
+}
+.linkfooters a {
+    color: #333;
+}
+
+
+.redesMP {
+    text-align: right;
+}
+
+.redesMP img {
+    height: auto;
+    margin: 5px 0 0 0;
+    opacity: 0.5;
+    width: 30%;
+}
+
+.listaRedes ul li {
+    font-family: 'Gochi Hand', cursive;
+    font-size: 18px;
+    list-style: none;
+    line-height: 35px;
+}
+.listaRedes ul li a {
+    color: #F294A5;
+}
+
+.redesMP a:hover {
+    opacity: 0.5;
+}
+
+.mpClases {
+    margin-top: 70px;
+}
+
