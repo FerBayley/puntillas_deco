@@ -12,6 +12,9 @@ header {
 .logo {
     text-align: center;
 }
+.logo a:hover {
+    opacity: 0.8;
+}
 
 .logo img {
     width: 25%;
@@ -21,6 +24,17 @@ header {
     color: #FFCBD4;
     font-size: 25px;
     padding: 0 5px 0 5px;
+}
+#fmessanger {
+    color: #FFCBD4;
+    font-size: 25px;
+    padding: 0 5px 0 5px;
+}
+.redes {
+    text-align: right;
+}
+.redes a {
+    text-decoration: none;
 }
 .redes a:hover {
     opacity: 0.5;
@@ -71,6 +85,9 @@ header {
     color: #F294A5;
     text-decoration: underline;
     padding: 0 15px 0 15px;
+}
+.active {
+    color: skyblue;
 }
 
 
@@ -177,8 +194,17 @@ header {
 .envio a {
     color: #F294A5;
 }
+.envio a:hover {
+    opacity: 0.5;
+}
+.contacto a:hover {
+    opacity: 0.5;
+}
 .contacto a {
     color: #F294A5;
+}
+.seguridad a:hover {
+    opacity: 0.5;
 }
 .seguridad a {
     color: #F294A5;
@@ -221,6 +247,12 @@ header {
     font-size: 35px;
 }
 
+.tituloSomos h2 {
+    color: #F294A5;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 35px;
+}
+
 
 .shopping {
     color: #333;
@@ -236,7 +268,6 @@ header {
     margin-bottom: 10px;
     width: 100%;
 }
-
 
 .testemonios {
     background-color: #D4C2B8;
@@ -262,7 +293,7 @@ header {
 }
 .testemonios h2 {
     border-radius: 10px;
-    color: grey;
+    color: white;
     font-family: 'Gochi Hand', cursive;
     font-size: 23px;
     width: auto;
@@ -282,6 +313,13 @@ header {
     padding-top: 60px;
     text-align: center;
 }
+.babyshower a {
+    text-decoration: none;
+}
+.babyshower a:hover {
+    opacity: 0.5;
+}
+
 
 #footer {
     background-color: #F3EDEA;
@@ -332,6 +370,13 @@ header {
     margin-top: 10px;
     padding-right: 7px;
 }
+#fmessangerPie {
+    color: #FFCBD4;
+    font-size: 33px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-right: 7px;
+}
 .redesPie {
     text-align: right;
 }
@@ -349,7 +394,9 @@ header {
 
 
 .shopping a {
-    color: #333;
+    color: rgba(212, 194, 185, 0.9);
+    font-size: 17px;
+    font-weight: bold;
 }
 .shopping a:hover {
     opacity: 0.5;
@@ -357,8 +404,11 @@ header {
 }
 .shopping img {
     border-radius: 3px;
+    margin-bottom: 50px;
 }
 .shopping h3 {
+    color: #333;
+    font-size: 16px;
     margin-bottom: 40px;
 }
 
@@ -433,4 +483,43 @@ header {
 .mpClases {
     margin-top: 70px;
 }
+.mpClases a {
+    text-decoration: none;
+}
 
+
+.tituloModal {
+    color: #F294A5;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+.textoModal {
+    color: #333;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: justify;
+}
+
+.separata {
+    margin-bottom: 70px;
+}
+
+.separataBaja {
+    margin-bottom: 30px;
+}
+
+
+.perfiles {
+    height: auto;
+    width: auto;
+}
+.perfiles img {
+    height: auto;
+    border-radius: 100%;
+    width: 50%;
+}
+
+.text-envios {
+    font-size: 14px;
+}
