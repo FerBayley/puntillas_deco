@@ -523,3 +523,63 @@ header {
 .text-envios {
     font-size: 14px;
 }
+
+.quienes-somos {
+    color: #333;
+    font-size: 16px;
+    line-height: 27px;
+}
+
+.firma {
+    color: #F294A5;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 30px;
+    margin-bottom: 100px;
+}
+
+.about {
+    margin-bottom: 100px;
+}
+.about a {
+    color: #F294A5;
+}
+.about img {
+    height: auto;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+
+
+
+.gitcards h3 {
+    color: grey;
+    font-size: 16px;
+    margin-top: 65px;
+}
+
+.gitcards h2 {
+    color: #F294A5;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 45px;
+}
+
+.gitcards h4 {
+    color: grey;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.gitcards img {
+    height: auto;
+    margin-top: 20px;
+    width: 100%;
+
+}
+
+.pink {
+    border: solid pink;
+    color:  pink;
+}
