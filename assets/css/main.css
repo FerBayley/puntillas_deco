@@ -3,6 +3,9 @@ body {
     font-size: 16px;
 }
 
+p {
+    text-transform: lowercase;
+}
 
 header {
     color: #333;
